@@ -32,6 +32,8 @@ This **AI-driven solution** automates **entity research, verification, and risk 
 ## 🎥 Demo
 🔗 [Live Demo](#) (if applicable)  
 📹 [Video Demo](#) (if applicable)  
+![image](https://github.com/user-attachments/assets/5568110b-f23e-4065-8220-b2bbd20df702)
+
 🖼️ Sample Response:
 ```json
 {
