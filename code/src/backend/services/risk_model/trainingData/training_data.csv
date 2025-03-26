@@ -1,0 +1,11 @@
+amount,transactionType,sender_directMatchWithSDN,sender_terroristAffiliation,sender_highRiskCountry,sender_secondarySanctionsRisk,sender_sectoralSanctions,sender_FATFListCountryStatus,sender_antiMoneyLaundering,receiver_directMatchWithSDN,receiver_terroristAffiliation,receiver_highRiskCountry,receiver_secondarySanctionsRisk,receiver_sectoralSanctions,receiver_FATFListCountryStatus,receiver_antiMoneyLaundering,senderCountry,receiverCountry
+314041,Wire Transfer,1,0,0,0,0,low,0,0,0,0,0,0,low,0,US,UK
+150000,Wire Transfer,0,0,1,0,0,medium,0,1,0,0,0,0,low,0,CN,US
+75000,Wire Transfer,0,0,0,0,0,low,0,0,0,0,0,0,low,0,UK,FR
+250000,Wire Transfer,1,0,1,0,0,high,0,0,0,0,0,0,low,0,IR,US
+50000,Wire Transfer,0,0,0,0,0,low,0,0,0,0,0,0,low,0,US,CA
+1000000,Wire Transfer,1,1,1,1,1,black,1,1,0,1,0,0,high,0,IR,CN
+25000,Wire Transfer,0,0,0,0,0,low,0,0,0,0,0,0,low,0,US,UK
+500000,Wire Transfer,0,0,0,0,0,low,0,1,0,0,0,0,low,0,UK,US
+175000,Wire Transfer,1,0,1,0,0,high,0,0,0,0,0,0,low,0,CN,US
+100000,Wire Transfer,0,0,0,0,0,low,0,0,0,0,0,0,low,0,US,FR 

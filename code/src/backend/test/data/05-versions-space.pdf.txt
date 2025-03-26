@@ -1,0 +1,1945 @@
+
+
+---
+Transaction ID: TXN-2024-0001
+Date: 2024-03-22 14:21:00
+Sender:
+ Name: Apollo Quiboloy
+ Account: IBAN 8517 1407 9437 2952 251
+ Address: New York, USA
+Notes: High-risk transaction flagged for review
+Receiver:
+ Name: Toronto-Dominion Bank
+ Account: 874812301
+ Address: Zurich, Switzerland
+ Tax ID: OFAC-40610
+Amount: $420871 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: Wire Transfer
+Reference: Ref-584079
+Additional Notes:
+ Linked to known illicit activity. Requires further review.
+---
+Transaction ID: TXN-2024-0002
+Date: 2024-03-22 14:22:00
+Sender:
+ Name: Revival of Islamic Heritage Society (RIHS)
+ Account: IBAN 4030 3517 7529 1431 488
+ Address: New York, USA
+Notes: High-risk transaction flagged for review
+Receiver:
+ Name: Procter & Gamble Co.
+ Account: 963716530
+ Address: Toronto, Canada
+ Tax ID: OFAC-23038
+Amount: $373688 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: Wire Transfer
+Reference: Ref-951096
+Additional Notes:
+ Linked to known illicit activity. Requires further review.
+---
+Transaction ID: TXN-2024-0003
+Date: 2024-03-22 14:23:00
+Sender:
+ Name: Hezbollah
+ Account: IBAN 5147 2443 8810 3144 265
+
+ Address: Paris, France
+Notes: High-risk transaction flagged for review
+Receiver:
+ Name: IBM Corporation
+ Account: 369244057
+ Address: Tokyo, Japan
+ Tax ID: OFAC-60438
+Amount: $100547 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: SWIFT
+Reference: Ref-706387
+Additional Notes:
+ Linked to known illicit activity. Requires further review.
+---
+Transaction ID: TXN-2024-0004
+Date: 2024-03-22 14:24:00
+Sender:
+ Name: Bashar al-Assad
+ Account: IBAN 4267 2152 8522 8744 823
+ Address: Frankfurt, Germany
+Notes: High-risk transaction flagged for review
+Receiver:
+ Name: Google LLC
+ Account: 934442748
+ Address: Sydney, Australia
+ Tax ID: OFAC-10889
+Amount: $344933 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: Wire Transfer
+Reference: Ref-290451
+Additional Notes:
+ Linked to known illicit activity. Requires further review.
+---
+Transaction ID: TXN-2024-0005
+Date: 2024-03-22 14:25:00
+Sender:
+ Name: TGR Group
+ Account: IBAN 6362 8289 6236 4134 528
+ Address: Frankfurt, Germany
+Notes: High-risk transaction flagged for review
+Receiver:
+ Name: Sanofi S.A.
+ Account: 692499296
+ Address: Hong Kong, China
+
+ Tax ID: OFAC-15503
+Amount: $145330 (USD)
+Currency Exchange: N/A
+Transaction Type: Wire Transfer
+Reference: Ref-364216
+Additional Notes:
+ Linked to known illicit activity. Requires further review.
+---
+Transaction ID: TXN-2024-0006
+Date: 2024-03-22 14:26:00
+Sender:
+ Name: Huaying Huizhou Daya Bay Petrochemical Terminal Storage
+ Account: IBAN 7920 3167 7098 1177 876
+ Address: New York, USA
+Notes: High-risk transaction flagged for review
+Receiver:
+ Name: Google LLC
+ Account: 357933503
+ Address: Tokyo, Japan
+ Tax ID: OFAC-19827
+Amount: $320039 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: SWIFT
+Reference: Ref-719562
+Additional Notes:
+ Linked to known illicit activity. Requires further review.
+---
+Transaction ID: TXN-2024-0007
+Date: 2024-03-22 14:27:00
+Sender:
+ Name: Kim Yong-chol
+ Account: IBAN 4070 2472 7933 2345 935
+ Address: Paris, France
+Notes: High-risk transaction flagged for review
+Receiver:
+ Name: Volkswagen Group
+ Account: 961128043
+ Address: Hong Kong, China
+ Tax ID: OFAC-40497
+Amount: $314041 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: Wire Transfer
+Reference: Ref-445243
+Additional Notes:
+
+ Linked to known illicit activity. Requires further review.
+---
+Transaction ID: TXN-2024-0008
+Date: 2024-03-22 14:28:00
+Sender:
+ Name: Hezbollah
+ Account: IBAN 9296 5003 6990 6796 333
+ Address: New York, USA
+Notes: High-risk transaction flagged for review
+Receiver:
+ Name: L'Oréal S.A.
+ Account: 408760000
+ Address: Toronto, Canada
+ Tax ID: OFAC-89098
+Amount: $259392 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: Wire Transfer
+Reference: Ref-637503
+Additional Notes:
+ Linked to known illicit activity. Requires further review.
+---
+Transaction ID: TXN-2024-0009
+Date: 2024-03-22 14:29:00
+Sender:
+ Name: Bashar al-Assad
+ Account: IBAN 6152 7196 9905 6042 650
+ Address: London, UK
+Notes: High-risk transaction flagged for review
+Receiver:
+ Name: L'Oréal S.A.
+ Account: 955072080
+ Address: Hong Kong, China
+ Tax ID: OFAC-86475
+Amount: $448272 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: SWIFT
+Reference: Ref-478437
+Additional Notes:
+ Linked to known illicit activity. Requires further review.
+---
+Transaction ID: TXN-2024-000A
+Date: 2024-03-22 14:30:00
+Sender:
+
+ Name: Rosoboronexport
+ Account: IBAN 6132 9007 2797 6130 942
+ Address: Frankfurt, Germany
+Notes: High-risk transaction flagged for review
+Receiver:
+ Name: NextEra Energy Inc.
+ Account: 674083737
+ Address: Tokyo, Japan
+ Tax ID: OFAC-62206
+Amount: $195532 (USD)
+Currency Exchange: N/A
+Transaction Type: Wire Transfer
+Reference: Ref-417800
+Additional Notes:
+ Linked to known illicit activity. Requires further review.
+---
+Transaction ID: TXN-2024-000B
+Date: 2024-03-22 14:31:00
+Sender:
+ Name: Maher al-Assad
+ Account: IBAN 6706 2325 8413 6817 125
+ Address: Paris, France
+Notes: High-risk transaction flagged for review
+Receiver:
+ Name: NextEra Energy Inc.
+ Account: 233929695
+ Address: Toronto, Canada
+ Tax ID: OFAC-41333
+Amount: $111815 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: Wire Transfer
+Reference: Ref-380346
+Additional Notes:
+ Linked to known illicit activity. Requires further review.
+---
+Transaction ID: TXN-2024-000C
+Date: 2024-03-22 14:32:00
+Sender:
+ Name: Al-Aqsa Foundation
+ Account: IBAN 8045 3103 7089 7465 836
+ Address: Dubai, UAE
+Notes: High-risk transaction flagged for review
+Receiver:
+ Name: Oracle Corporation
+
+ Account: 752805590
+ Address: Tokyo, Japan
+ Tax ID: OFAC-91136
+Amount: $207066 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: SWIFT
+Reference: Ref-730062
+Additional Notes:
+ Linked to known illicit activity. Requires further review.
+---
+Transaction ID: TXN-2024-000D
+Date: 2024-03-22 14:33:00
+Sender:
+ Name: Mikalai Karpiankou
+ Account: IBAN 7796 3711 4979 7340 968
+ Address: Paris, France
+Notes: High-risk transaction flagged for review
+Receiver:
+ Name: Apple Inc.
+ Account: 177306046
+ Address: Zurich, Switzerland
+ Tax ID: OFAC-96382
+Amount: $149620 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: Wire Transfer
+Reference: Ref-132503
+Additional Notes:
+ Linked to known illicit activity. Requires further review.
+---
+Transaction ID: TXN-2024-000E
+Date: 2024-03-22 14:34:00
+Sender:
+ Name: Timur Badr
+ Account: IBAN 7415 7474 8485 3017 320
+ Address: Frankfurt, Germany
+Notes: High-risk transaction flagged for review
+Receiver:
+ Name: Costco Wholesale Corporation
+ Account: 190123184
+ Address: Sydney, Australia
+ Tax ID: OFAC-36699
+Amount: $192611 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: Wire Transfer
+
+Reference: Ref-146809
+Additional Notes:
+ Linked to known illicit activity. Requires further review.
+---
+Transaction ID: TXN-2024-000F
+Date: 2024-03-22 14:35:00
+Sender:
+ Name: Ejército de Liberación Nacional (ELN)
+ Account: IBAN 5178 9491 1880 3953 128
+ Address: London, UK
+Notes: High-risk transaction flagged for review
+Receiver:
+ Name: Sumitomo Mitsui Banking Corporation
+ Account: 812137691
+ Address: Zurich, Switzerland
+ Tax ID: OFAC-92574
+Amount: $55879 (USD)
+Currency Exchange: N/A
+Transaction Type: SWIFT
+Reference: Ref-731992
+Additional Notes:
+ Linked to known illicit activity. Requires further review.
+---
+Transaction ID: TXN-2024-0010
+Date: 2024-03-22 14:36:00
+Sender:
+ Name: Bashar al-Assad
+ Account: IBAN 8397 4638 3782 9500 693
+ Address: Paris, France
+Notes: High-risk transaction flagged for review
+Receiver:
+ Name: Moderna Inc.
+ Account: 148702803
+ Address: Zurich, Switzerland
+ Tax ID: OFAC-14801
+Amount: $339579 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: Wire Transfer
+Reference: Ref-149848
+Additional Notes:
+ Linked to known illicit activity. Requires further review.
+---
+Transaction ID: TXN-2024-0011
+
+Date: 2024-03-22 14:37:00
+Sender:
+ Name: Wagner Group
+ Account: IBAN 6085 2809 2916 9685 447
+ Address: New York, USA
+Notes: High-risk transaction flagged for review
+Receiver:
+ Name: Siemens AG
+ Account: 709235613
+ Address: Hong Kong, China
+ Tax ID: OFAC-74240
+Amount: $325092 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: Wire Transfer
+Reference: Ref-182374
+Additional Notes:
+ Linked to known illicit activity. Requires further review.
+---
+Transaction ID: TXN-2024-0012
+Date: 2024-03-22 14:38:00
+Sender:
+ Name: Ejército de Liberación Nacional (ELN)
+ Account: IBAN 8150 2733 4580 8915 210
+ Address: Dubai, UAE
+Notes: High-risk transaction flagged for review
+Receiver:
+ Name: Pfizer Inc.
+ Account: 171164858
+ Address: Tokyo, Japan
+ Tax ID: OFAC-68652
+Amount: $412648 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: SWIFT
+Reference: Ref-225813
+Additional Notes:
+ Linked to known illicit activity. Requires further review.
+---
+Transaction ID: TXN-2024-0013
+Date: 2024-03-22 14:39:00
+Sender:
+ Name: Kim Yong-chol
+ Account: IBAN 2417 3273 7933 4023 858
+ Address: London, UK
+Notes: High-risk transaction flagged for review
+
+Receiver:
+ Name: Ford Motor Company
+ Account: 594237212
+ Address: Toronto, Canada
+ Tax ID: OFAC-98288
+Amount: $421233 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: Wire Transfer
+Reference: Ref-534563
+Additional Notes:
+ Linked to known illicit activity. Requires further review.
+---
+Transaction ID: TXN-2024-0014
+Date: 2024-03-22 14:40:00
+Sender:
+ Name: Korea Mining Development Trading Corporation (KOMID)
+ Account: IBAN 5922 6708 7926 9196 474
+ Address: Dubai, UAE
+Notes: High-risk transaction flagged for review
+Receiver:
+ Name: Amazon Web Services
+ Account: 342064681
+ Address: Sydney, Australia
+ Tax ID: OFAC-20559
+Amount: $90582 (USD)
+Currency Exchange: N/A
+Transaction Type: Wire Transfer
+Reference: Ref-968712
+Additional Notes:
+ Linked to known illicit activity. Requires further review.
+---
+Transaction ID: TXN-2024-0015
+Date: 2024-03-22 14:41:00
+Sender:
+ Name: Shandong Shouguang Luqing Petrochemical Co., Ltd.
+ Account: IBAN 8550 2448 3957 6019 668
+ Address: Dubai, UAE
+Notes: High-risk transaction flagged for review
+Receiver:
+ Name: PepsiCo Inc.
+ Account: 622634561
+ Address: Tokyo, Japan
+ Tax ID: OFAC-11105
+Amount: $152434 (USD)
+
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: SWIFT
+Reference: Ref-371927
+Additional Notes:
+ Linked to known illicit activity. Requires further review.
+---
+Transaction ID: TXN-2024-0016
+Date: 2024-03-22 14:42:00
+Sender:
+ Name: Al-Aqsa Foundation
+ Account: IBAN 3413 3064 6206 3837 713
+ Address: New York, USA
+Notes: High-risk transaction flagged for review
+Receiver:
+ Name: Intel Corporation
+ Account: 489929954
+ Address: Hong Kong, China
+ Tax ID: OFAC-89885
+Amount: $403879 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: Wire Transfer
+Reference: Ref-873219
+Additional Notes:
+ Linked to known illicit activity. Requires further review.
+---
+Transaction ID: TXN-2024-0017
+Date: 2024-03-22 14:43:00
+Sender:
+ Name: Wagner Group
+ Account: IBAN 5384 9161 6471 4076 262
+ Address: London, UK
+Notes: High-risk transaction flagged for review
+Receiver:
+ Name: Merck & Co., Inc.
+ Account: 642644669
+ Address: Tokyo, Japan
+ Tax ID: OFAC-66954
+Amount: $326671 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: Wire Transfer
+Reference: Ref-776135
+Additional Notes:
+ Linked to known illicit activity. Requires further review.
+
+---
+Transaction ID: TXN-2024-0018
+Date: 2024-03-22 14:44:00
+Sender:
+ Name: Scientific Studies and Research Center (SSRC)
+ Account: IBAN 4587 1874 2050 8004 500
+ Address: New York, USA
+Notes: High-risk transaction flagged for review
+Receiver:
+ Name: L'Oréal S.A.
+ Account: 688027671
+ Address: Tokyo, Japan
+ Tax ID: OFAC-27114
+Amount: $180583 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: SWIFT
+Reference: Ref-239284
+Additional Notes:
+ Linked to known illicit activity. Requires further review.
+---
+Transaction ID: TXN-2024-0019
+Date: 2024-03-22 14:45:00
+Sender:
+ Name: Scientific Studies and Research Center (SSRC)
+ Account: IBAN 8122 1700 5766 6002 235
+ Address: New York, USA
+Notes: High-risk transaction flagged for review
+Receiver:
+ Name: 3M Company
+ Account: 338352926
+ Address: Zurich, Switzerland
+ Tax ID: OFAC-36294
+Amount: $97380 (USD)
+Currency Exchange: N/A
+Transaction Type: Wire Transfer
+Reference: Ref-490304
+Additional Notes:
+ Linked to known illicit activity. Requires further review.
+---
+Transaction ID: TXN-2024-001A
+Date: 2024-03-22 14:46:00
+Sender:
+ Name: George Rossi
+ Account: IBAN 1294 6302 3886 6025 232
+
+ Address: Frankfurt, Germany
+Notes: High-risk transaction flagged for review
+Receiver:
+ Name: Ford Motor Company
+ Account: 454745223
+ Address: Hong Kong, China
+ Tax ID: OFAC-31170
+Amount: $290594 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: Wire Transfer
+Reference: Ref-216682
+Additional Notes:
+ Linked to known illicit activity. Requires further review.
+---
+Transaction ID: TXN-2024-001B
+Date: 2024-03-22 14:47:00
+Sender:
+ Name: Timur Badr
+ Account: IBAN 6258 6884 8464 2399 601
+ Address: Frankfurt, Germany
+Notes: High-risk transaction flagged for review
+Receiver:
+ Name: 3M Company
+ Account: 934419173
+ Address: Sydney, Australia
+ Tax ID: OFAC-74206
+Amount: $410362 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: SWIFT
+Reference: Ref-390200
+Additional Notes:
+ Linked to known illicit activity. Requires further review.
+---
+Transaction ID: TXN-2024-001C
+Date: 2024-03-22 14:48:00
+Sender:
+ Name: Scientific Studies and Research Center (SSRC)
+ Account: IBAN 2769 8388 1101 9597 719
+ Address: Paris, France
+Notes: High-risk transaction flagged for review
+Receiver:
+ Name: BP plc
+ Account: 289828125
+ Address: Toronto, Canada
+
+ Tax ID: OFAC-22847
+Amount: $414903 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: Wire Transfer
+Reference: Ref-896310
+Additional Notes:
+ Linked to known illicit activity. Requires further review.
+---
+Transaction ID: TXN-2024-001D
+Date: 2024-03-22 14:49:00
+Sender:
+ Name: Scientific Studies and Research Center (SSRC)
+ Account: IBAN 7430 4292 5646 8608 402
+ Address: New York, USA
+Notes: High-risk transaction flagged for review
+Receiver:
+ Name: Procter & Gamble Co.
+ Account: 798614614
+ Address: Tokyo, Japan
+ Tax ID: OFAC-41960
+Amount: $240612 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: Wire Transfer
+Reference: Ref-103507
+Additional Notes:
+ Linked to known illicit activity. Requires further review.
+---
+Transaction ID: TXN-2024-001E
+Date: 2024-03-22 14:50:00
+Sender:
+ Name: Alexander Lukashenko
+ Account: IBAN 5590 3208 7252 4928 205
+ Address: New York, USA
+Notes: High-risk transaction flagged for review
+Receiver:
+ Name: Royal Dutch Shell plc
+ Account: 974059466
+ Address: Tokyo, Japan
+ Tax ID: OFAC-85381
+Amount: $219821 (USD)
+Currency Exchange: N/A
+Transaction Type: SWIFT
+Reference: Ref-186051
+Additional Notes:
+
+ Linked to known illicit activity. Requires further review.
+---
+Transaction ID: TXN-2024-001F
+Date: 2024-03-22 14:51:00
+Sender:
+ Name: Oracle Corporation
+ Account: IBAN 3527 5471 5132 2771 601
+ Address: Dubai, UAE
+Notes: Standard business transaction
+Receiver:
+ Name: Ekaterina Zhdanova
+ Account: 529144980
+ Address: Hong Kong, China
+ Tax ID: US-TAX-97719
+Amount: $202928 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: Wire Transfer
+Reference: Ref-818978
+Additional Notes:
+ Cleared by compliance team.
+---
+Transaction ID: TXN-2024-0020
+Date: 2024-03-22 14:52:00
+Sender:
+ Name: ExxonMobil Corporation
+ Account: IBAN 9552 6300 2506 6913 671
+ Address: New York, USA
+Notes: Standard business transaction
+Receiver:
+ Name: Mikalai Karpiankou
+ Account: 175881329
+ Address: Toronto, Canada
+ Tax ID: US-TAX-55311
+Amount: $175294 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: Wire Transfer
+Reference: Ref-584104
+Additional Notes:
+ Cleared by compliance team.
+---
+Transaction ID: TXN-2024-0021
+Date: 2024-03-22 14:53:00
+Sender:
+
+ Name: Unilever PLC
+ Account: IBAN 3277 9054 4685 7753 292
+ Address: London, UK
+Notes: Standard business transaction
+Receiver:
+ Name: Al-Aqsa Foundation
+ Account: 801367251
+ Address: Tokyo, Japan
+ Tax ID: US-TAX-21291
+Amount: $261250 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: SWIFT
+Reference: Ref-110251
+Additional Notes:
+ Cleared by compliance team.
+---
+Transaction ID: TXN-2024-0022
+Date: 2024-03-22 14:54:00
+Sender:
+ Name: Ford Motor Company
+ Account: IBAN 7799 5271 9464 1911 749
+ Address: New York, USA
+Notes: Standard business transaction
+Receiver:
+ Name: Korea Mining Development Trading Corporation (KOMID)
+ Account: 195168609
+ Address: Tokyo, Japan
+ Tax ID: US-TAX-75645
+Amount: $173714 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: Wire Transfer
+Reference: Ref-277728
+Additional Notes:
+ Cleared by compliance team.
+---
+Transaction ID: TXN-2024-0023
+Date: 2024-03-22 14:55:00
+Sender:
+ Name: Equinor ASA
+ Account: IBAN 5119 1263 4197 4101 320
+ Address: New York, USA
+Notes: Standard business transaction
+Receiver:
+ Name: Scientific Studies and Research Center (SSRC)
+
+ Account: 362628645
+ Address: Hong Kong, China
+ Tax ID: US-TAX-70169
+Amount: $244385 (USD)
+Currency Exchange: N/A
+Transaction Type: Wire Transfer
+Reference: Ref-400200
+Additional Notes:
+ Cleared by compliance team.
+---
+Transaction ID: TXN-2024-0024
+Date: 2024-03-22 14:56:00
+Sender:
+ Name: NVIDIA Corporation
+ Account: IBAN 7925 8573 6479 7042 828
+ Address: New York, USA
+Notes: Standard business transaction
+Receiver:
+ Name: TGR Group
+ Account: 363353669
+ Address: Toronto, Canada
+ Tax ID: US-TAX-85299
+Amount: $336638 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: SWIFT
+Reference: Ref-152881
+Additional Notes:
+ Cleared by compliance team.
+---
+Transaction ID: TXN-2024-0025
+Date: 2024-03-22 14:57:00
+Sender:
+ Name: Siemens Energy AG
+ Account: IBAN 6481 3276 3352 1912 140
+ Address: New York, USA
+Notes: Standard business transaction
+Receiver:
+ Name: Fuerzas Armadas Revolucionarias de Colombia (FARC)
+ Account: 391357063
+ Address: Zurich, Switzerland
+ Tax ID: US-TAX-32208
+Amount: $262492 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: Wire Transfer
+
+Reference: Ref-841171
+Additional Notes:
+ Cleared by compliance team.
+---
+Transaction ID: TXN-2024-0026
+Date: 2024-03-22 14:58:00
+Sender:
+ Name: SAP SE
+ Account: IBAN 8172 5143 4883 2041 743
+ Address: Paris, France
+Notes: Standard business transaction
+Receiver:
+ Name: Timur Badr
+ Account: 584873282
+ Address: Sydney, Australia
+ Tax ID: US-TAX-42829
+Amount: $233735 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: Wire Transfer
+Reference: Ref-317133
+Additional Notes:
+ Cleared by compliance team.
+---
+Transaction ID: TXN-2024-0027
+Date: 2024-03-22 14:59:00
+Sender:
+ Name: Deutsche Bank AG
+ Account: IBAN 5652 9373 3190 2797 776
+ Address: Paris, France
+Notes: Standard business transaction
+Receiver:
+ Name: Saif al-Islam Gaddafi
+ Account: 879438265
+ Address: Tokyo, Japan
+ Tax ID: US-TAX-55144
+Amount: $329101 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: SWIFT
+Reference: Ref-109513
+Additional Notes:
+ Cleared by compliance team.
+---
+Transaction ID: TXN-2024-0028
+
+Date: 2024-03-22 14:20:00
+Sender:
+ Name: Sumitomo Mitsui Banking Corporation
+ Account: IBAN 4809 3150 9114 5795 971
+ Address: Paris, France
+Notes: Standard business transaction
+Receiver:
+ Name: Esmail Qaani
+ Account: 826737835
+ Address: Toronto, Canada
+ Tax ID: US-TAX-19298
+Amount: $306841 (USD)
+Currency Exchange: N/A
+Transaction Type: Wire Transfer
+Reference: Ref-459276
+Additional Notes:
+ Cleared by compliance team.
+---
+Transaction ID: TXN-2024-0029
+Date: 2024-03-22 14:21:00
+Sender:
+ Name: Cisco Systems Inc.
+ Account: IBAN 7020 3492 6714 8914 507
+ Address: New York, USA
+Notes: Standard business transaction
+Receiver:
+ Name: Scientific Studies and Research Center (SSRC)
+ Account: 976638279
+ Address: Zurich, Switzerland
+ Tax ID: US-TAX-79735
+Amount: $307701 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: Wire Transfer
+Reference: Ref-663120
+Additional Notes:
+ Cleared by compliance team.
+---
+Transaction ID: TXN-2024-002A
+Date: 2024-03-22 14:22:00
+Sender:
+ Name: Oracle Corporation
+ Account: IBAN 8758 8739 5611 4774 927
+ Address: New York, USA
+Notes: Standard business transaction
+
+Receiver:
+ Name: Revival of Islamic Heritage Society (RIHS)
+ Account: 943743729
+ Address: Hong Kong, China
+ Tax ID: US-TAX-40192
+Amount: $377153 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: SWIFT
+Reference: Ref-835058
+Additional Notes:
+ Cleared by compliance team.
+---
+Transaction ID: TXN-2024-002B
+Date: 2024-03-22 14:23:00
+Sender:
+ Name: BNP Paribas
+ Account: IBAN 2864 8900 9484 1431 470
+ Address: Frankfurt, Germany
+Notes: Standard business transaction
+Receiver:
+ Name: Esmail Qaani
+ Account: 489502542
+ Address: Sydney, Australia
+ Tax ID: US-TAX-28247
+Amount: $350804 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: Wire Transfer
+Reference: Ref-315463
+Additional Notes:
+ Cleared by compliance team.
+---
+Transaction ID: TXN-2024-002C
+Date: 2024-03-22 14:24:00
+Sender:
+ Name: Nike Inc.
+ Account: IBAN 1591 2429 8903 2386 675
+ Address: Frankfurt, Germany
+Notes: Standard business transaction
+Receiver:
+ Name: Timur Badr
+ Account: 163887872
+ Address: Toronto, Canada
+ Tax ID: US-TAX-74729
+Amount: $269710 (USD)
+
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: Wire Transfer
+Reference: Ref-255776
+Additional Notes:
+ Cleared by compliance team.
+---
+Transaction ID: TXN-2024-002D
+Date: 2024-03-22 14:25:00
+Sender:
+ Name: HSBC Holdings plc
+ Account: IBAN 9380 2926 6440 2192 610
+ Address: Dubai, UAE
+Notes: Standard business transaction
+Receiver:
+ Name: Smart Group
+ Account: 971494932
+ Address: Sydney, Australia
+ Tax ID: US-TAX-16668
+Amount: $198412 (USD)
+Currency Exchange: N/A
+Transaction Type: SWIFT
+Reference: Ref-370970
+Additional Notes:
+ Cleared by compliance team.
+---
+Transaction ID: TXN-2024-002E
+Date: 2024-03-22 14:26:00
+Sender:
+ Name: AstraZeneca plc
+ Account: IBAN 8953 3547 1237 8267 999
+ Address: Frankfurt, Germany
+Notes: Standard business transaction
+Receiver:
+ Name: Alexander Lukashenko
+ Account: 299477246
+ Address: Hong Kong, China
+ Tax ID: US-TAX-17328
+Amount: $143883 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: Wire Transfer
+Reference: Ref-602796
+Additional Notes:
+ Cleared by compliance team.
+
+---
+Transaction ID: TXN-2024-002F
+Date: 2024-03-22 14:27:00
+Sender:
+ Name: Moderna Inc.
+ Account: IBAN 3697 3086 4471 9387 929
+ Address: Frankfurt, Germany
+Notes: Standard business transaction
+Receiver:
+ Name: Mikalai Karpiankou
+ Account: 696186156
+ Address: Tokyo, Japan
+ Tax ID: US-TAX-55189
+Amount: $50251 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: Wire Transfer
+Reference: Ref-217937
+Additional Notes:
+ Cleared by compliance team.
+---
+Transaction ID: TXN-2024-0030
+Date: 2024-03-22 14:28:00
+Sender:
+ Name: Deutsche Bank AG
+ Account: IBAN 3616 9137 2225 9609 754
+ Address: New York, USA
+Notes: Standard business transaction
+Receiver:
+ Name: Bashar al-Assad
+ Account: 113217380
+ Address: Tokyo, Japan
+ Tax ID: US-TAX-86635
+Amount: $193144 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: SWIFT
+Reference: Ref-350451
+Additional Notes:
+ Cleared by compliance team.
+---
+Transaction ID: TXN-2024-0031
+Date: 2024-03-22 14:29:00
+Sender:
+ Name: Nestlé S.A.
+ Account: IBAN 4389 7599 7642 3332 817
+
+ Address: Frankfurt, Germany
+Notes: Standard business transaction
+Receiver:
+ Name: Alexander Lukashenko
+ Account: 974368852
+ Address: Tokyo, Japan
+ Tax ID: US-TAX-77392
+Amount: $485022 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: Wire Transfer
+Reference: Ref-381533
+Additional Notes:
+ Cleared by compliance team.
+---
+Transaction ID: TXN-2024-0032
+Date: 2024-03-22 14:30:00
+Sender:
+ Name: Procter & Gamble Co.
+ Account: IBAN 5161 6061 4443 5859 456
+ Address: New York, USA
+Notes: Standard business transaction
+Receiver:
+ Name: Ekaterina Zhdanova
+ Account: 513945798
+ Address: Hong Kong, China
+ Tax ID: US-TAX-27397
+Amount: $201056 (USD)
+Currency Exchange: N/A
+Transaction Type: Wire Transfer
+Reference: Ref-630187
+Additional Notes:
+ Cleared by compliance team.
+---
+Transaction ID: TXN-2024-0033
+Date: 2024-03-22 14:31:00
+Sender:
+ Name: Sanofi S.A.
+ Account: IBAN 8874 2714 5386 8014 481
+ Address: Paris, France
+Notes: Standard business transaction
+Receiver:
+ Name: Maher al-Assad
+ Account: 178092446
+ Address: Tokyo, Japan
+
+ Tax ID: US-TAX-36877
+Amount: $281808 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: SWIFT
+Reference: Ref-623061
+Additional Notes:
+ Cleared by compliance team.
+---
+Transaction ID: TXN-2024-0034
+Date: 2024-03-22 14:32:00
+Sender:
+ Name: Google LLC
+ Account: IBAN 3769 3596 2764 8102 755
+ Address: Paris, France
+Notes: Standard business transaction
+Receiver:
+ Name: Al-Aqsa Foundation
+ Account: 727489505
+ Address: Zurich, Switzerland
+ Tax ID: US-TAX-40834
+Amount: $152977 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: Wire Transfer
+Reference: Ref-155963
+Additional Notes:
+ Cleared by compliance team.
+---
+Transaction ID: TXN-2024-0035
+Date: 2024-03-22 14:33:00
+Sender:
+ Name: Procter & Gamble Co.
+ Account: IBAN 3234 8543 8686 8206 930
+ Address: Dubai, UAE
+Notes: Standard business transaction
+Receiver:
+ Name: Ekaterina Zhdanova
+ Account: 269106681
+ Address: Toronto, Canada
+ Tax ID: US-TAX-11491
+Amount: $383054 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: Wire Transfer
+Reference: Ref-661216
+Additional Notes:
+
+ Cleared by compliance team.
+---
+Transaction ID: TXN-2024-0036
+Date: 2024-03-22 14:34:00
+Sender:
+ Name: GlaxoSmithKline plc
+ Account: IBAN 2445 4965 9789 1944 116
+ Address: New York, USA
+Notes: Standard business transaction
+Receiver:
+ Name: Fuerzas Armadas Revolucionarias de Colombia (FARC)
+ Account: 587687401
+ Address: Toronto, Canada
+ Tax ID: US-TAX-92727
+Amount: $361249 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: SWIFT
+Reference: Ref-875301
+Additional Notes:
+ Cleared by compliance team.
+---
+Transaction ID: TXN-2024-0037
+Date: 2024-03-22 14:35:00
+Sender:
+ Name: NVIDIA Corporation
+ Account: IBAN 4655 4081 1043 5115 685
+ Address: London, UK
+Notes: Standard business transaction
+Receiver:
+ Name: Shandong Shouguang Luqing Petrochemical Co., Ltd.
+ Account: 430077531
+ Address: Sydney, Australia
+ Tax ID: US-TAX-45834
+Amount: $75046 (USD)
+Currency Exchange: N/A
+Transaction Type: Wire Transfer
+Reference: Ref-816452
+Additional Notes:
+ Cleared by compliance team.
+---
+Transaction ID: TXN-2024-0038
+Date: 2024-03-22 14:36:00
+Sender:
+
+ Name: Google LLC
+ Account: IBAN 3029 3527 6236 2738 613
+ Address: Paris, France
+Notes: Standard business transaction
+Receiver:
+ Name: Apollo Quiboloy
+ Account: 562784299
+ Address: Toronto, Canada
+ Tax ID: US-TAX-37162
+Amount: $488362 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: Wire Transfer
+Reference: Ref-623977
+Additional Notes:
+ Cleared by compliance team.
+---
+Transaction ID: TXN-2024-0039
+Date: 2024-03-22 14:37:00
+Sender:
+ Name: Honda Motor Co., Ltd.
+ Account: IBAN 8120 8850 1538 6262 569
+ Address: Frankfurt, Germany
+Notes: Standard business transaction
+Receiver:
+ Name: Union of Good
+ Account: 435895249
+ Address: Tokyo, Japan
+ Tax ID: US-TAX-99570
+Amount: $193119 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: SWIFT
+Reference: Ref-987788
+Additional Notes:
+ Cleared by compliance team.
+---
+Transaction ID: TXN-2024-003A
+Date: 2024-03-22 14:38:00
+Sender:
+ Name: Tesla Inc.
+ Account: IBAN 1815 6281 1868 1802 436
+ Address: London, UK
+Notes: Standard business transaction
+Receiver:
+ Name: Union of Good
+
+ Account: 381868155
+ Address: Toronto, Canada
+ Tax ID: US-TAX-38352
+Amount: $419105 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: Wire Transfer
+Reference: Ref-711271
+Additional Notes:
+ Cleared by compliance team.
+---
+Transaction ID: TXN-2024-003B
+Date: 2024-03-22 14:39:00
+Sender:
+ Name: General Motors Company
+ Account: IBAN 3611 8000 6078 5090 707
+ Address: Frankfurt, Germany
+Notes: Standard business transaction
+Receiver:
+ Name: Shandong Shouguang Luqing Petrochemical Co., Ltd.
+ Account: 674315046
+ Address: Hong Kong, China
+ Tax ID: US-TAX-17843
+Amount: $321236 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: Wire Transfer
+Reference: Ref-336988
+Additional Notes:
+ Cleared by compliance team.
+---
+Transaction ID: TXN-2024-003C
+Date: 2024-03-22 14:40:00
+Sender:
+ Name: Equinor ASA
+ Account: IBAN 4232 2925 3760 8192 190
+ Address: New York, USA
+Notes: Standard business transaction
+Receiver:
+ Name: Fuerzas Armadas Revolucionarias de Colombia (FARC)
+ Account: 708812359
+ Address: Zurich, Switzerland
+ Tax ID: US-TAX-77942
+Amount: $67699 (USD)
+Currency Exchange: N/A
+Transaction Type: SWIFT
+
+Reference: Ref-127646
+Additional Notes:
+ Cleared by compliance team.
+---
+Transaction ID: TXN-2024-003D
+Date: 2024-03-22 14:41:00
+Sender:
+ Name: DBS Bank Ltd
+ Account: IBAN 8290 6583 2978 5750 935
+ Address: London, UK
+Notes: Standard business transaction
+Receiver:
+ Name: Huaying Huizhou Daya Bay Petrochemical Terminal Storage
+ Account: 654187152
+ Address: Zurich, Switzerland
+ Tax ID: US-TAX-29708
+Amount: $314666 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: Wire Transfer
+Reference: Ref-500258
+Additional Notes:
+ Cleared by compliance team.
+---
+Transaction ID: TXN-2024-003E
+Date: 2024-03-22 14:42:00
+Sender:
+ Name: AstraZeneca plc
+ Account: IBAN 1627 1373 2451 6420 424
+ Address: New York, USA
+Notes: Standard business transaction
+Receiver:
+ Name: Hezbollah
+ Account: 610522851
+ Address: Zurich, Switzerland
+ Tax ID: US-TAX-66099
+Amount: $499587 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: Wire Transfer
+Reference: Ref-155486
+Additional Notes:
+ Cleared by compliance team.
+---
+Transaction ID: TXN-2024-003F
+
+Date: 2024-03-22 14:43:00
+Sender:
+ Name: Adidas AG
+ Account: IBAN 4546 4646 9571 6390 615
+ Address: London, UK
+Notes: Standard business transaction
+Receiver:
+ Name: Ekaterina Zhdanova
+ Account: 735540824
+ Address: Sydney, Australia
+ Tax ID: US-TAX-20738
+Amount: $220059 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: SWIFT
+Reference: Ref-580091
+Additional Notes:
+ Cleared by compliance team.
+---
+Transaction ID: TXN-2024-0040
+Date: 2024-03-22 14:44:00
+Sender:
+ Name: Google LLC
+ Account: IBAN 9092 9222 2949 1524 515
+ Address: Paris, France
+Notes: Standard business transaction
+Receiver:
+ Name: Hezbollah
+ Account: 300745383
+ Address: Zurich, Switzerland
+ Tax ID: US-TAX-57020
+Amount: $400953 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: Wire Transfer
+Reference: Ref-886324
+Additional Notes:
+ Cleared by compliance team.
+---
+Transaction ID: TXN-2024-0041
+Date: 2024-03-22 14:45:00
+Sender:
+ Name: Royal Dutch Shell plc
+ Account: IBAN 8121 2319 7865 6846 415
+ Address: Dubai, UAE
+Notes: Standard business transaction
+
+Receiver:
+ Name: Huaying Huizhou Daya Bay Petrochemical Terminal Storage
+ Account: 596512546
+ Address: Tokyo, Japan
+ Tax ID: US-TAX-49629
+Amount: $448960 (USD)
+Currency Exchange: N/A
+Transaction Type: Wire Transfer
+Reference: Ref-152279
+Additional Notes:
+ Cleared by compliance team.
+---
+Transaction ID: TXN-2024-0042
+Date: 2024-03-22 14:46:00
+Sender:
+ Name: Volkswagen Group
+ Account: IBAN 2294 4232 5298 1093 782
+ Address: Paris, France
+Notes: Standard business transaction
+Receiver:
+ Name: Maher al-Assad
+ Account: 805026982
+ Address: Tokyo, Japan
+ Tax ID: US-TAX-48964
+Amount: $200026 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: SWIFT
+Reference: Ref-516213
+Additional Notes:
+ Cleared by compliance team.
+---
+Transaction ID: TXN-2024-0043
+Date: 2024-03-22 14:47:00
+Sender:
+ Name: Enel S.p.A.
+ Account: IBAN 4241 5414 1482 4160 683
+ Address: Frankfurt, Germany
+Notes: Standard business transaction
+Receiver:
+ Name: Apollo Quiboloy
+ Account: 830017368
+ Address: Toronto, Canada
+ Tax ID: US-TAX-15620
+Amount: $477067 (USD)
+
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: Wire Transfer
+Reference: Ref-769326
+Additional Notes:
+ Cleared by compliance team.
+---
+Transaction ID: TXN-2024-0044
+Date: 2024-03-22 14:48:00
+Sender:
+ Name: Deutsche Bank AG
+ Account: IBAN 9843 3007 5150 6176 274
+ Address: New York, USA
+Notes: Standard business transaction
+Receiver:
+ Name: Scientific Studies and Research Center (SSRC)
+ Account: 396534836
+ Address: Zurich, Switzerland
+ Tax ID: US-TAX-79996
+Amount: $289739 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: Wire Transfer
+Reference: Ref-615205
+Additional Notes:
+ Cleared by compliance team.
+---
+Transaction ID: TXN-2024-0045
+Date: 2024-03-22 14:49:00
+Sender:
+ Name: GlaxoSmithKline plc
+ Account: IBAN 4667 6441 8639 4463 221
+ Address: Paris, France
+Notes: Standard business transaction
+Receiver:
+ Name: Revival of Islamic Heritage Society (RIHS)
+ Account: 907400650
+ Address: Hong Kong, China
+ Tax ID: US-TAX-41181
+Amount: $107929 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: SWIFT
+Reference: Ref-380884
+Additional Notes:
+ Cleared by compliance team.
+
+---
+Transaction ID: TXN-2024-0046
+Date: 2024-03-22 14:50:00
+Sender:
+ Name: Daimler AG
+ Account: IBAN 7669 1382 4607 3230 811
+ Address: Frankfurt, Germany
+Notes: Standard business transaction
+Receiver:
+ Name: Scientific Studies and Research Center (SSRC)
+ Account: 156720750
+ Address: Tokyo, Japan
+ Tax ID: US-TAX-26838
+Amount: $90112 (USD)
+Currency Exchange: N/A
+Transaction Type: Wire Transfer
+Reference: Ref-113297
+Additional Notes:
+ Cleared by compliance team.
+---
+Transaction ID: TXN-2024-0047
+Date: 2024-03-22 14:51:00
+Sender:
+ Name: Siemens Energy AG
+ Account: IBAN 8706 5482 6476 5895 707
+ Address: Dubai, UAE
+Notes: Standard business transaction
+Receiver:
+ Name: Timur Badr
+ Account: 960366625
+ Address: Tokyo, Japan
+ Tax ID: US-TAX-11612
+Amount: $71866 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: Wire Transfer
+Reference: Ref-447465
+Additional Notes:
+ Cleared by compliance team.
+---
+Transaction ID: TXN-2024-0048
+Date: 2024-03-22 14:52:00
+Sender:
+ Name: L'Oréal S.A.
+ Account: IBAN 3628 9109 8323 9932 783
+
+ Address: New York, USA
+Notes: Standard business transaction
+Receiver:
+ Name: Saif al-Islam Gaddafi
+ Account: 652868022
+ Address: Zurich, Switzerland
+ Tax ID: US-TAX-71905
+Amount: $151469 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: SWIFT
+Reference: Ref-438665
+Additional Notes:
+ Cleared by compliance team.
+---
+Transaction ID: TXN-2024-0049
+Date: 2024-03-22 14:53:00
+Sender:
+ Name: Siemens Energy AG
+ Account: IBAN 6470 7776 2799 1159 109
+ Address: Dubai, UAE
+Notes: Standard business transaction
+Receiver:
+ Name: Ejército de Liberación Nacional (ELN)
+ Account: 803893372
+ Address: Zurich, Switzerland
+ Tax ID: US-TAX-47427
+Amount: $355244 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: Wire Transfer
+Reference: Ref-426739
+Additional Notes:
+ Cleared by compliance team.
+---
+Transaction ID: TXN-2024-004A
+Date: 2024-03-22 14:54:00
+Sender:
+ Name: General Electric Company
+ Account: IBAN 3893 4878 5204 8831 948
+ Address: Frankfurt, Germany
+Notes: Standard business transaction
+Receiver:
+ Name: Bank Melli Iran
+ Account: 222574756
+ Address: Sydney, Australia
+
+ Tax ID: US-TAX-82227
+Amount: $99030 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: Wire Transfer
+Reference: Ref-295992
+Additional Notes:
+ Cleared by compliance team.
+---
+Transaction ID: TXN-2024-004B
+Date: 2024-03-22 14:55:00
+Sender:
+ Name: Nike Inc.
+ Account: IBAN 6297 1245 2592 5635 914
+ Address: New York, USA
+Notes: Standard business transaction
+Receiver:
+ Name: Wagner Group
+ Account: 123373465
+ Address: Tokyo, Japan
+ Tax ID: US-TAX-87676
+Amount: $413264 (USD)
+Currency Exchange: N/A
+Transaction Type: SWIFT
+Reference: Ref-406162
+Additional Notes:
+ Cleared by compliance team.
+---
+Transaction ID: TXN-2024-004C
+Date: 2024-03-22 14:56:00
+Sender:
+ Name: Microsoft Corporation
+ Account: IBAN 3280 5082 6737 9934 295
+ Address: Dubai, UAE
+Notes: Standard business transaction
+Receiver:
+ Name: Kim Yong-chol
+ Account: 777831704
+ Address: Sydney, Australia
+ Tax ID: US-TAX-64338
+Amount: $57063 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: Wire Transfer
+Reference: Ref-460910
+Additional Notes:
+
+ Cleared by compliance team.
+---
+Transaction ID: TXN-2024-004D
+Date: 2024-03-22 14:57:00
+Sender:
+ Name: Siemens Energy AG
+ Account: IBAN 8222 1139 1026 3032 163
+ Address: New York, USA
+Notes: Standard business transaction
+Receiver:
+ Name: Revival of Islamic Heritage Society (RIHS)
+ Account: 133953688
+ Address: Sydney, Australia
+ Tax ID: US-TAX-18757
+Amount: $61794 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: Wire Transfer
+Reference: Ref-664493
+Additional Notes:
+ Cleared by compliance team.
+---
+Transaction ID: TXN-2024-004E
+Date: 2024-03-22 14:58:00
+Sender:
+ Name: Sanofi S.A.
+ Account: IBAN 9524 2333 4293 4723 200
+ Address: Paris, France
+Notes: Standard business transaction
+Receiver:
+ Name: Korea Mining Development Trading Corporation (KOMID)
+ Account: 840855131
+ Address: Tokyo, Japan
+ Tax ID: US-TAX-84312
+Amount: $187247 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: SWIFT
+Reference: Ref-236003
+Additional Notes:
+ Cleared by compliance team.
+---
+Transaction ID: TXN-2024-004F
+Date: 2024-03-22 14:59:00
+Sender:
+
+ Name: GlaxoSmithKline plc
+ Account: IBAN 5218 2370 4066 2277 387
+ Address: Paris, France
+Notes: Standard business transaction
+Receiver:
+ Name: Rosoboronexport
+ Account: 144557940
+ Address: Sydney, Australia
+ Tax ID: US-TAX-49213
+Amount: $112323 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: Wire Transfer
+Reference: Ref-907011
+Additional Notes:
+ Cleared by compliance team.
+---
+Transaction ID: TXN-2024-0050
+Date: 2024-03-22 14:20:00
+Sender:
+ Name: Schneider Electric SE
+ Account: IBAN 5256 9818 9598 8721 287
+ Address: London, UK
+Notes: Standard business transaction
+Receiver:
+ Name: Saif al-Islam Gaddafi
+ Account: 975984432
+ Address: Zurich, Switzerland
+ Tax ID: US-TAX-30400
+Amount: $400180 (USD)
+Currency Exchange: N/A
+Transaction Type: Wire Transfer
+Reference: Ref-891583
+Additional Notes:
+ Cleared by compliance team.
+---
+Transaction ID: TXN-2024-0051
+Date: 2024-03-22 14:21:00
+Sender:
+ Name: Equinor ASA
+ Account: IBAN 2788 1439 3051 5487 182
+ Address: New York, USA
+Notes: Standard business transaction
+Receiver:
+ Name: Alexander Lukashenko
+
+ Account: 902904599
+ Address: Tokyo, Japan
+ Tax ID: US-TAX-77269
+Amount: $164248 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: SWIFT
+Reference: Ref-931730
+Additional Notes:
+ Cleared by compliance team.
+---
+Transaction ID: TXN-2024-0052
+Date: 2024-03-22 14:22:00
+Sender:
+ Name: BNP Paribas
+ Account: IBAN 6861 1480 3049 4260 756
+ Address: Paris, France
+Notes: Standard business transaction
+Receiver:
+ Name: Shandong Shouguang Luqing Petrochemical Co., Ltd.
+ Account: 171067724
+ Address: Tokyo, Japan
+ Tax ID: US-TAX-97127
+Amount: $128590 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: Wire Transfer
+Reference: Ref-301727
+Additional Notes:
+ Cleared by compliance team.
+---
+Transaction ID: TXN-2024-0053
+Date: 2024-03-22 14:23:00
+Sender:
+ Name: 3M Company
+ Account: IBAN 6236 5165 3049 5105 117
+ Address: New York, USA
+Notes: Standard business transaction
+Receiver:
+ Name: Bashar al-Assad
+ Account: 208750388
+ Address: Sydney, Australia
+ Tax ID: US-TAX-34332
+Amount: $50447 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: Wire Transfer
+
+Reference: Ref-983533
+Additional Notes:
+ Cleared by compliance team.
+---
+Transaction ID: TXN-2024-0054
+Date: 2024-03-22 14:24:00
+Sender:
+ Name: Google LLC
+ Account: IBAN 9551 1610 1040 5797 850
+ Address: London, UK
+Notes: Standard business transaction
+Receiver:
+ Name: TGR Group
+ Account: 970046429
+ Address: Hong Kong, China
+ Tax ID: US-TAX-60769
+Amount: $244810 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: SWIFT
+Reference: Ref-763354
+Additional Notes:
+ Cleared by compliance team.
+---
+Transaction ID: TXN-2024-0055
+Date: 2024-03-22 14:25:00
+Sender:
+ Name: Costco Wholesale Corporation
+ Account: IBAN 7609 6615 1725 9135 900
+ Address: Frankfurt, Germany
+Notes: Standard business transaction
+Receiver:
+ Name: Korea Mining Development Trading Corporation (KOMID)
+ Account: 560819639
+ Address: Zurich, Switzerland
+ Tax ID: US-TAX-27906
+Amount: $247921 (USD)
+Currency Exchange: N/A
+Transaction Type: Wire Transfer
+Reference: Ref-165041
+Additional Notes:
+ Cleared by compliance team.
+---
+Transaction ID: TXN-2024-0056
+
+Date: 2024-03-22 14:26:00
+Sender:
+ Name: Bayer AG
+ Account: IBAN 3483 7264 4274 1010 537
+ Address: Paris, France
+Notes: Standard business transaction
+Receiver:
+ Name: Revival of Islamic Heritage Society (RIHS)
+ Account: 985873148
+ Address: Toronto, Canada
+ Tax ID: US-TAX-32678
+Amount: $100879 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: Wire Transfer
+Reference: Ref-588888
+Additional Notes:
+ Cleared by compliance team.
+---
+Transaction ID: TXN-2024-0057
+Date: 2024-03-22 14:27:00
+Sender:
+ Name: Intel Corporation
+ Account: IBAN 5373 1585 1049 3936 150
+ Address: London, UK
+Notes: Standard business transaction
+Receiver:
+ Name: Korea Mining Development Trading Corporation (KOMID)
+ Account: 346836603
+ Address: Tokyo, Japan
+ Tax ID: US-TAX-47840
+Amount: $409973 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: SWIFT
+Reference: Ref-638776
+Additional Notes:
+ Cleared by compliance team.
+---
+Transaction ID: TXN-2024-0058
+Date: 2024-03-22 14:28:00
+Sender:
+ Name: Roche Holding AG
+ Account: IBAN 3547 3316 1139 2819 873
+ Address: Frankfurt, Germany
+Notes: Standard business transaction
+
+Receiver:
+ Name: Yevgeny Prigozhin
+ Account: 467496816
+ Address: Sydney, Australia
+ Tax ID: US-TAX-49065
+Amount: $240518 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: Wire Transfer
+Reference: Ref-754988
+Additional Notes:
+ Cleared by compliance team.
+---
+Transaction ID: TXN-2024-0059
+Date: 2024-03-22 14:29:00
+Sender:
+ Name: 3M Company
+ Account: IBAN 9117 3219 7011 5051 983
+ Address: Dubai, UAE
+Notes: Standard business transaction
+Receiver:
+ Name: Esmail Qaani
+ Account: 936144350
+ Address: Sydney, Australia
+ Tax ID: US-TAX-67063
+Amount: $484681 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: Wire Transfer
+Reference: Ref-715339
+Additional Notes:
+ Cleared by compliance team.
+---
+Transaction ID: TXN-2024-005A
+Date: 2024-03-22 14:30:00
+Sender:
+ Name: HSBC Holdings plc
+ Account: IBAN 9666 7719 2224 9295 448
+ Address: Dubai, UAE
+Notes: Standard business transaction
+Receiver:
+ Name: Kim Yong-chol
+ Account: 371475604
+ Address: Tokyo, Japan
+ Tax ID: US-TAX-68669
+Amount: $368290 (USD)
+
+Currency Exchange: N/A
+Transaction Type: SWIFT
+Reference: Ref-994778
+Additional Notes:
+ Cleared by compliance team.
+---
+Transaction ID: TXN-2024-005B
+Date: 2024-03-22 14:31:00
+Sender:
+ Name: TotalEnergies SE
+ Account: IBAN 3989 8474 4704 2781 538
+ Address: New York, USA
+Notes: Standard business transaction
+Receiver:
+ Name: Timur Badr
+ Account: 926451988
+ Address: Hong Kong, China
+ Tax ID: US-TAX-16831
+Amount: $283732 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: Wire Transfer
+Reference: Ref-499079
+Additional Notes:
+ Cleared by compliance team.
+---
+Transaction ID: TXN-2024-005C
+Date: 2024-03-22 14:32:00
+Sender:
+ Name: Nestlé S.A.
+ Account: IBAN 2413 8856 7696 7712 864
+ Address: London, UK
+Notes: Standard business transaction
+Receiver:
+ Name: Petroleos de Venezuela, S.A. (PDVSA)
+ Account: 608610343
+ Address: Toronto, Canada
+ Tax ID: US-TAX-69167
+Amount: $84919 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: Wire Transfer
+Reference: Ref-576078
+Additional Notes:
+ Cleared by compliance team.
+
+---
+Transaction ID: TXN-2024-005D
+Date: 2024-03-22 14:33:00
+Sender:
+ Name: Royal Dutch Shell plc
+ Account: IBAN 9066 4394 4989 9698 568
+ Address: London, UK
+Notes: Standard business transaction
+Receiver:
+ Name: Union of Good
+ Account: 655902440
+ Address: Sydney, Australia
+ Tax ID: US-TAX-59084
+Amount: $194297 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: SWIFT
+Reference: Ref-680177
+Additional Notes:
+ Cleared by compliance team.
+---
+Transaction ID: TXN-2024-005E
+Date: 2024-03-22 14:34:00
+Sender:
+ Name: L'Oréal S.A.
+ Account: IBAN 7860 1951 5294 1982 959
+ Address: Frankfurt, Germany
+Notes: Standard business transaction
+Receiver:
+ Name: Hezbollah
+ Account: 566833920
+ Address: Sydney, Australia
+ Tax ID: US-TAX-44932
+Amount: $460967 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: Wire Transfer
+Reference: Ref-601723
+Additional Notes:
+ Cleared by compliance team.
+---
+Transaction ID: TXN-2024-005F
+Date: 2024-03-22 14:35:00
+Sender:
+ Name: Nestlé S.A.
+ Account: IBAN 6332 1487 1531 1561 663
+
+ Address: Paris, France
+Notes: Standard business transaction
+Receiver:
+ Name: Huaying Huizhou Daya Bay Petrochemical Terminal Storage
+ Account: 314564298
+ Address: Sydney, Australia
+ Tax ID: US-TAX-13572
+Amount: $477624 (USD)
+Currency Exchange: N/A
+Transaction Type: Wire Transfer
+Reference: Ref-559005
+Additional Notes:
+ Cleared by compliance team.
+---
+Transaction ID: TXN-2024-0060
+Date: 2024-03-22 14:36:00
+Sender:
+ Name: Deutsche Bank AG
+ Account: IBAN 7899 9837 4948 8564 665
+ Address: New York, USA
+Notes: Standard business transaction
+Receiver:
+ Name: Fuerzas Armadas Revolucionarias de Colombia (FARC)
+ Account: 369024166
+ Address: Sydney, Australia
+ Tax ID: US-TAX-60100
+Amount: $374087 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: SWIFT
+Reference: Ref-476313
+Additional Notes:
+ Cleared by compliance team.
+---
+Transaction ID: TXN-2024-0061
+Date: 2024-03-22 14:37:00
+Sender:
+ Name: Ford Motor Company
+ Account: IBAN 4346 5410 7814 8982 922
+ Address: Frankfurt, Germany
+Notes: Standard business transaction
+Receiver:
+ Name: Bank Melli Iran
+ Account: 612273214
+ Address: Sydney, Australia
+
+ Tax ID: US-TAX-10713
+Amount: $418496 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: Wire Transfer
+Reference: Ref-370771
+Additional Notes:
+ Cleared by compliance team.
+---
+Transaction ID: TXN-2024-0062
+Date: 2024-03-22 14:38:00
+Sender:
+ Name: AstraZeneca plc
+ Account: IBAN 6680 2530 2008 7285 241
+ Address: Paris, France
+Notes: Standard business transaction
+Receiver:
+ Name: Huaying Huizhou Daya Bay Petrochemical Terminal Storage
+ Account: 500372015
+ Address: Tokyo, Japan
+ Tax ID: US-TAX-75085
+Amount: $220326 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: Wire Transfer
+Reference: Ref-912415
+Additional Notes:
+ Cleared by compliance team.
+---
+Transaction ID: TXN-2024-0063
+Date: 2024-03-22 14:39:00
+Sender:
+ Name: NextEra Energy Inc.
+ Account: IBAN 4082 3207 6366 4798 404
+ Address: Paris, France
+Notes: Standard business transaction
+Receiver:
+ Name: Union of Good
+ Account: 712631722
+ Address: Zurich, Switzerland
+ Tax ID: US-TAX-57791
+Amount: $163597 (USD)
+Currency Exchange: EUR USD (Rate: 1.10)
+Transaction Type: SWIFT
+Reference: Ref-441828
+Additional Notes:
+
+ Cleared by compliance team.
+---
+Transaction ID: TXN-2024-0064
+Date: 2024-03-22 14:40:00
+Sender:
+ Name: SAP SE
+ Account: IBAN 5596 7952 5849 2970 394
+ Address: London, UK
+Notes: Standard business transaction
+Receiver:
+ Name: Shandong Shouguang Luqing Petrochemical Co., Ltd.
+ Account: 843564944
+ Address: Toronto, Canada
+ Tax ID: US-TAX-92798
+Amount: $67049 (USD)
+Currency Exchange: N/A
+Transaction Type: Wire Transfer
+Reference: Ref-606762
+Additional Notes:
+ Cleared by compliance team.

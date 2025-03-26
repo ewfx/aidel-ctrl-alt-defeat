@@ -1,0 +1,33 @@
+Postman request for predict
+
+curl --location 'http://localhost:5001/predict' \
+--header 'Content-Type: application/json' \
+--header 'Accept: application/json' \
+--data '{
+    "amount": "$1,000,000",
+    "transactionType": "Wire Transfer",
+    "senderDetails": {
+        "directMatchWithSDN": true,
+        "terroristAffiliation": false,
+        "highRiskCountry": true,
+        "secondarySanctionsRisk": false,
+        "sectoralSanctions": false,
+        "FATFListCountryStatus": "black",
+        "antiMoneyLaundering": false
+    },
+    "receiverDetails": {
+        "directMatchWithSDN": false,
+        "terroristAffiliation": false,
+        "highRiskCountry": false,
+        "secondarySanctionsRisk": false,
+        "sectoralSanctions": false,
+        "FATFListCountryStatus": "black",
+        "antiMoneyLaundering": false
+    }
+}'
+
+
+POstman request to train the model
+
+curl --location 'http://localhost:5001/    
+train' \--header 'Content-Type: application/json' \--header 'Accept: application/json' \--data '{}'
