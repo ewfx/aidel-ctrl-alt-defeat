@@ -909,8 +909,8 @@ npx nodemon
 
 ## Architecture Diagram
 
-![Architecture Diagram]
-(artifacts/arch/Architecture_diagram.png)
+![arch](https://github.com/user-attachments/assets/4aaad493-6a50-47fc-a7a5-884a4419d2df)
+
 
 
 ## 🏗️ Tech Stack
