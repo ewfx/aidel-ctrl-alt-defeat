@@ -203,6 +203,13 @@ The backend is developed using **Node.js**, which acts as the central hub for **
    ```sh
    npm start  # or python app.py
    ```
+
+## Architecture Diagram
+
+![Architecture Diagram]
+(artifacts/arch/Architecture_diagram.png)
+
+
 ## 🏗️ Tech Stack
 - 🔹 Frontend: React.js, Material UI
 - 🔹 Backend: Node.js, Flask
